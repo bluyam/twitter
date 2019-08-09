@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 - [x] Timestamp is formatted in time since posted
-- [x] Retweets and favorites are formatted to be abreviated for >=1000 amounts
+- [x] Retweets and favorites are formatted to be abbreviated for >=1000 amounts
 - [x] Compose a tweet
 - [x] Implement profile view (autolayout still needs to be completed)
 
